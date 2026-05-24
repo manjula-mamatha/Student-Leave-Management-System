@@ -1,4 +1,4 @@
-# Student Leave Management System (Java Swing + JDBC)
+# Student Leave Management System
 
 A desktop-based **Student Leave Management System** built using **Java Swing**, **JDBC**, and **MySQL**.
 The application provides a graphical interface to manage student leave requests efficiently while following a clean layered architecture.
